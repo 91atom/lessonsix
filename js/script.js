@@ -76,28 +76,7 @@ document.write(result);
 //     return result1;
 // }
 //  document.write('x1=');
-//  var x_1;
-//  alert( x_1 );
- 
-//  document.write('x2=');
-//  var x_2;
-//  alert( x_2 );
- 
- 
-// var result = text + x_1 + x_2;
-// var result1 = text2;
-// document.write(result);
 
-// function count() {
-//   var i, j; // передвинули объявления var в начало
-//   for (i = 0; i < 3; i++) {
-//     j = i * 2;
-//   }
-
-//   document.write('x1='); // i=3
-//   alert( j ); // j=4
-// }
-// count();
 var a = Number(prompt('Input "a" for: ax2+bx+c=0'));
 var b = Number(prompt('Input "b" fhor: ax2+bx+c=0'));
 var c = Number(prompt('Input "c" for: ax2+bx+c=0'));
